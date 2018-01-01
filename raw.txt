@@ -960,7 +960,6 @@ apache
 apollo
 apollo1
 apollo13
-apple
 apple1
 apple123
 applepie
